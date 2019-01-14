@@ -1,0 +1,4 @@
+repository:
+  name: settings-test
+  description: Testing the setting bot
+  has_wiki: false
